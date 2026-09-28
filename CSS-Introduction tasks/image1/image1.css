@@ -1,0 +1,16 @@
+th{
+     border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px;
+   box-shadow: 3px 3px;
+}
+h1{
+     margin: 20px;
+     padding: 10px;
+}
+table{
+padding: 10px;
+margin: 20px;
+border-spacing: 15px;
+}

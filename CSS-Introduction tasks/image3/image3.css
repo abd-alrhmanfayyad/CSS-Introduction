@@ -1,0 +1,30 @@
+body {
+    margin: 10px ;
+   
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 30px;
+    text-decoration: underline;
+    margin-bottom:  35px ;
+}
+.redlink{
+    color: red;
+}
+a {
+    color: orange;
+}
+.list  {
+    color: blue;
+  
+}
+
+  li:first-child{
+    font-weight: bold;
+  
+}
+
+#yellowlink{
+    background-color: yellow
+}
